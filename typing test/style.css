@@ -1,0 +1,78 @@
+body{
+ background-color: aqua;
+}
+header{
+    background-color:brown;
+    margin: 0;
+    padding: 20px 2px 20px 5px;
+}
+
+h1{
+    margin:0;
+    padding: 5px;
+    text-align:center;
+}
+
+.ART1 p{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.MN{
+    background-color: beige;
+    align-items: center;
+    position: fixed;
+    padding-right: 15px;
+}
+div{
+    text-align: center;
+}
+.ART1{
+    background-color: gray;
+}
+
+.ART1, p{
+    color: maroon;
+}
+
+
+#DIV1{
+    background-color: aliceblue;
+}
+#DIV1 p{
+    color: black;
+}
+
+#BTN{
+    background-color: cornflowerblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 6px;
+}
+
+#BTN:hover{
+    color: #8b0000;
+}
+
+#BTN:visited{
+    color: darkslateblue;
+}
+
+footer{
+    text-align: right;
+    margin-top: 500px;
+
+}
+a:hover{
+  color: red;
+}
+
+
+@media screen and (max-width: 800px){
+    #DIV1 #DIV2 {
+        width: 100%;
+        
+        
+
+    }
+}
