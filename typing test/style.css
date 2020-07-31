@@ -6,7 +6,7 @@ header{
     background-color:brown;
     margin: 0;
     padding: 20px 2px 20px 5px;
-     position: fixed;
+     position: absolute;
 }
 
 h1{
